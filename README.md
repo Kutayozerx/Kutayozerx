@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Manager**
 
-- 🌱 I’m currently learning **Java,PostgreSql**
+- 🌱 I’m currently learning **Java,Spring Boot,PostgreSql**
 
 - 💬 Ask me about **Java,PostgreSql**
 
