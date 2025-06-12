@@ -4,8 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kutayozerx" alt="kutayozerx" /></a> </p>
 
-- 🔭 I’m currently working on **Manager**
-
 - 🌱 I’m currently learning **Java,Spring Boot,PostgreSql**
 
 - 💬 Ask me about **Java,PostgreSql**
